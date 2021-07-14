@@ -19,3 +19,4 @@ children:
   - /what-happens-to-forks-when-a-repository-is-deleted-or-changes-visibility
 ---
 
+---/ game need to control by its self
